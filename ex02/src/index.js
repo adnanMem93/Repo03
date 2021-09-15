@@ -12,7 +12,7 @@ Multi-line comments
     
 }
     
-main();
+console.log(main());
     
 module.exports = main;
     
