@@ -5,7 +5,7 @@ var forCat;
     
 }
     
-main();
+console.log(main());
     
 module.exports = main;
     
